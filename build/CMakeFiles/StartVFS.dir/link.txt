@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/StartVFS.dir/src/main.cpp.o -o StartVFS 

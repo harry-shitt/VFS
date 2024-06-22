@@ -1,0 +1,3 @@
+/home/harshith/Desktop/Projects/C++/VFS/build/CMakeFiles/StartVFS.dir
+/home/harshith/Desktop/Projects/C++/VFS/build/CMakeFiles/edit_cache.dir
+/home/harshith/Desktop/Projects/C++/VFS/build/CMakeFiles/rebuild_cache.dir
